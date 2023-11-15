@@ -1,6 +1,6 @@
 # Lab Problems are solved by JOY
 
-<img src="/Problems Solved by JOY/dhananjoy.jpg" alt="JOY" width="42" height="42" style="border: 5px solid black; border-radius: 50%;">
+<img src="/Problems Solved by JOY/dhananjoy.jpg" alt="JOY" width="360" height="360" style="border: 3px solid black; border-radius: 50%;">
 
 ## **[Dhananjoy Chandra Das]** (https://www.facebook.com/No1.DhananjoyChandraDas)
 
