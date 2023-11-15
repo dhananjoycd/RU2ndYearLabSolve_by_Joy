@@ -1,4 +1,14 @@
-# /Problems%20Solved%20by%20JOY
+# Lab Problems are solved by JOY
+
+<img src="/Problems Solved by JOY/dhananjoy.jpg" alt="JOY" width="42" height="42" style="border: 5px solid black; border-radius: 50%;">
+
+## **[Dhananjoy Chandra Das]** (https://www.facebook.com/No1.DhananjoyChandraDas)
+
+### Studies B.Sc (Hon's🎓) in Department of Mathematics at University of Rajshahi
+
+### **Note:**
+
+<i> In this Git repository, you can find all the solved Lab Courses (Math-2019) following the syllabus of RU. If you face difficulty understanding any problem solved here, feel free to contact me. Additionally, here's an essential link to aid your comprehension: [Notion Note](https://lumpy-watercress-0d0.notion.site/Problems-Solved-by-JOY-0104b788ca944cb4a4031a91986281d1?pvs=4) </i>
 
 ## **1. Write a program to check whether a triangle is Equilateral, Isosceles or Scalene. (Vertices given)**
 
