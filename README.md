@@ -30,7 +30,7 @@ program number_1
 end program
 ```
 
-![01.png](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/01.png)
+![01.png](Problems Solved by JOY/01.png)
 
 ## 2. Print the area and perimeter of a tringle if the vertices of the tringle are given.
 
@@ -59,7 +59,7 @@ program num_2
 end program
 ```
 
-![02.png](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/02.png)
+![02.png](Problems Solved by JOY/02.png)
 
 ## 3. Find the center and radius of a tringle's circum circle if the tringle's vertices are given.
 
@@ -140,7 +140,7 @@ program num_4
 end program num_4
 ```
 
-![04.png](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/04.png)
+![04.png](Problems Solved by JOY/04.png)
 
 # **Print the sum or product up to n terms of the series:**
 
@@ -164,7 +164,7 @@ program num_5_i
 end program
 ```
 
-![05i.png](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/05i.png)
+![05i.png](Problems Solved by JOY/05i.png)
 
 ## 5ii. 1 + cos x + cos 2x + cos 3x + … …
 
@@ -185,11 +185,11 @@ program num_5_ii
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled.png)
+![Untitled](Problems Solved by JOY/Untitled.png)
 
 ## 5iii.
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%201.png)
+![Untitled](Problems Solved by JOY/Untitled%201.png)
 
 ```fortran
 program num_5_iii
@@ -208,11 +208,11 @@ program num_5_iii
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%202.png)
+![Untitled](Problems Solved by JOY/Untitled%202.png)
 
 ## 5iv.
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%203.png)
+![Untitled](Problems Solved by JOY/Untitled%203.png)
 
 ```fortran
 program num_5_iv
@@ -231,11 +231,11 @@ program num_5_iv
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%204.png)
+![Untitled](Problems Solved by JOY/Untitled%204.png)
 
 ## 5v.
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%205.png)
+![Untitled](Problems Solved by JOY/Untitled%205.png)
 
 ```fortran
 program num_5_v
@@ -254,13 +254,13 @@ program num_5_v
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%206.png)
+![Untitled](Problems Solved by JOY/Untitled%206.png)
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%207.png)
+![Untitled](Problems Solved by JOY/Untitled%207.png)
 
 ## 6i.
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%208.png)
+![Untitled](Problems Solved by JOY/Untitled%208.png)
 
 ```fortran
 program num_6_i
@@ -281,11 +281,11 @@ program num_6_i
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%209.png)
+![Untitled](Problems Solved by JOY/Untitled%209.png)
 
 ## 6ii
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2010.png)
+![Untitled](Problems Solved by JOY/Untitled%2010.png)
 
 ```fortran
 program num_6_ii
@@ -306,7 +306,7 @@ program num_6_ii
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2011.png)
+![Untitled](Problems Solved by JOY/Untitled%2011.png)
 
 ## 7. Write a program to print a given number whether it is prime or not and print its pre and post prime numbers.
 
@@ -359,7 +359,7 @@ isprime=check
 end function
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2012.png)
+![Untitled](Problems Solved by JOY/Untitled%2012.png)
 
 ## 8. Write a program to print the number of primes in a range of positive integers.
 
@@ -396,7 +396,7 @@ isprime=check
 end function
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2013.png)
+![Untitled](Problems Solved by JOY/Untitled%2013.png)
 
 ## 9. Write a program to read a positive integer n and print the factors of n and count them.
 
@@ -417,7 +417,7 @@ print'(A,I3,A,I3)',"There exist", count," factors inside",n
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2014.png)
+![Untitled](Problems Solved by JOY/Untitled%2014.png)
 
 ## 10. Write a program to print the perfect numbers in a range of positive integers.
 
@@ -447,7 +447,7 @@ program num_10
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2015.png)
+![Untitled](Problems Solved by JOY/Untitled%2015.png)
 
 ## 11. Write a program to print the triangular numbers in a range.
 
@@ -473,7 +473,7 @@ program num_11
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2016.png)
+![Untitled](Problems Solved by JOY/Untitled%2016.png)
 
 ## 12. Write a program to print the Floyd’s triangle.
 
@@ -495,7 +495,7 @@ program num_12
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2017.png)
+![Untitled](Problems Solved by JOY/Untitled%2017.png)
 
 ## 13. Write a program to print the Pascal’s triangle.
 
@@ -517,11 +517,11 @@ program num_12
 end program
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2018.png)
+![Untitled](Problems Solved by JOY/Untitled%2018.png)
 
 ## 14.
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2019.png)
+![Untitled](Problems Solved by JOY/Untitled%2019.png)
 
 ```fortran
 program num_14
@@ -570,7 +570,7 @@ program num_14
 end program num_14
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2020.png)
+![Untitled](Problems Solved by JOY/Untitled%2020.png)
 
 ## 15. Read a square matrix A of order n and print a symmetric matrix B and skew-symmetric matrix C such that A=B+C.
 
@@ -616,7 +616,7 @@ program num_15
 end program num_15
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2021.png)
+![Untitled](Problems Solved by JOY/Untitled%2021.png)
 
 ## 16. Read two matrices A and B and test whether AB defined if AB exists print the product AB.
 
@@ -679,9 +679,10 @@ program num_16
 end program num_16
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2022.png)
+![Untitled](Problems Solved by JOY/Untitled%2022.png)
 
 ## 17. Read a matrix A of order n and print the sum of:
+
 i. diagonal elements
 ii. the last column elements
 iii. the lower triangular elements
@@ -734,7 +735,7 @@ program num_17
 end program num_17
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2023.png)
+![Untitled](Problems Solved by JOY/Untitled%2023.png)
 
 ## 18. Read a matrix A and print AA’ and A’A.
 
@@ -801,11 +802,11 @@ program num_18
 end program num_18
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2024.png)
+![Untitled](Problems Solved by JOY/Untitled%2024.png)
 
 ## 19. Write a function subprogram for the function f(x) defined as follows:
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2025.png)
+![Untitled](Problems Solved by JOY/Untitled%2025.png)
 
 ```fortran
 program num_19
@@ -829,11 +830,11 @@ real function f(x)
 end function
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2026.png)
+![Untitled](Problems Solved by JOY/Untitled%2026.png)
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2027.png)
+![Untitled](Problems Solved by JOY/Untitled%2027.png)
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2028.png)
+![Untitled](Problems Solved by JOY/Untitled%2028.png)
 
 ## 20. Define a function to determine h.c.f. of a pair of positive integers and use it to print the h.c.f. of consecutive pairs of an array of positive integers.
 
@@ -872,7 +873,7 @@ integer function hcf(m, n)
 end function hcf
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2029.png)
+![Untitled](Problems Solved by JOY/Untitled%2029.png)
 
 ## 21. Read n numbers and print them and their sorted list (ascending and descending).
 
@@ -917,7 +918,7 @@ program num_21
 end program num_21
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2030.png)
+![Untitled](Problems Solved by JOY/Untitled%2030.png)
 
 ## 22. Print the A.M, G.M, H.M, SD, MD of a list of numbers using subroutine subprogram and function subprogram.
 
@@ -1005,7 +1006,7 @@ real function MD(a, m)
 end function
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2031.png)
+![Untitled](Problems Solved by JOY/Untitled%2031.png)
 
 ## 23. Print the binomial coefficients nCr for 0≤r≤n (n<9) using function sub program.
 
@@ -1062,11 +1063,11 @@ integer function fac(n)
 end function
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2032.png)
+![Untitled](Problems Solved by JOY/Untitled%2032.png)
 
 ## 24.
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2033.png)
+![Untitled](Problems Solved by JOY/Untitled%2033.png)
 
 ```fortran
 program num_24
@@ -1092,7 +1093,7 @@ end program
    end function
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2034.png)
+![Untitled](Problems Solved by JOY/Untitled%2034.png)
 
 ## 25. Read n numbers and insert a number in a particular position and print the inputted list and the resultant list.
 
@@ -1141,4 +1142,4 @@ program num_25
 end program num_25
 ```
 
-![Untitled](Problems%20Solved%20by%20JOY%200104b788ca944cb4a4031a91986281d1/Untitled%2035.png)
+![Untitled](Problems Solved by JOY/Untitled%2035.png)
