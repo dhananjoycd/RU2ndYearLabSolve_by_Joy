@@ -1,10 +1,14 @@
 # Lab Problems are solved by JOY
 
-<img src="/Problems Solved by JOY/dhananjoy.jpg" alt="JOY" width="360" height="360" style="border: 3px solid black; border-radius: 50%;">
+<div style="color:yellow; background-color:black; border: 2px white solid; padding: 10px; text-align: center;">
 
-## **[Dhananjoy Chandra Das]** (https://www.facebook.com/No1.DhananjoyChandraDas)
+<img src="/Problems Solved by JOY/dhananjoy.jpg" alt="Dhananjoy's Photo">
+ Happy Coding 😊 <br>
+<a href="https://www.facebook.com/No1.DhananjoyChandraDas">Dhananjoy Chandra Das</a>
+ <br>
+ - <i>Studies B.Sc (Hon's🎓) in Department of Mathematics at University of Rajshahi </i>
 
-### Studies B.Sc (Hon's🎓) in Department of Mathematics at University of Rajshahi
+</div>
 
 ### **Note:**
 
