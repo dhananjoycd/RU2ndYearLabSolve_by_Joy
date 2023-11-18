@@ -1094,8 +1094,6 @@ program num_24
 
     do i = x0, xn, h
      print*, "The function f(", i , ") = " ,f(i)
-     x0 = x0+h
-     if (x0>xn) exit
     end do
 end program
 
