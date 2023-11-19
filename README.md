@@ -920,8 +920,8 @@ program num_21
 
   ! Display the sorted list in ascending order
   print *, "Ascending order:"
-  do i = 1, n
-    print *, a(n+1-i)
+  do i = n, 1, -1
+    print *, a(i)
   end do
 
   ! Display the sorted list in descending order
