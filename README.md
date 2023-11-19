@@ -13,6 +13,7 @@
 ### **Note:**
 
 <i> In this Git repository, you can find all the solved Lab Courses (Math-2019) following the syllabus of RU. If you face difficulty understanding any problem solved here, feel free to contact me. Additionally, here's an essential link to aid your comprehension: [Notion Note](https://lumpy-watercress-0d0.notion.site/Problems-Solved-by-JOY-0104b788ca944cb4a4031a91986281d1?pvs=4) </i>
+<b>[PDF Download] (https://file.notion.so/f/f/4292a058-39fd-44e1-b9f3-3a25e698c26a/f5df557b-8048-40ce-84aa-d5e450a760a1/Problems_Solved_by_JOY_(MATH-2019).pdf?id=b86910d5-3c5c-47d4-8160-b1b1ff5043ea&table=block&spaceId=4292a058-39fd-44e1-b9f3-3a25e698c26a&expirationTimestamp=1700481600000&signature=5dey8otCHgXHIn_BzLcLUTh13oBpAToeMB47f6wEf8Y&downloadName=Problems+Solved+by+JOY+%28MATH-2019%29.pdf)</b>
 
 ## **1. Write a program to check whether a triangle is Equilateral, Isosceles or Scalene. (Vertices given)**
 
