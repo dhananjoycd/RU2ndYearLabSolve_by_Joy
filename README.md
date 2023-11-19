@@ -908,9 +908,9 @@ program num_21
   ! Prompt user to enter n numbers
   print *, "Enter (n) numbers:"
   read *, a  !5, 3 , 2, 4, 1
-  do i=1,5
-    do j=1, 5-i
-        if(a(3)<a(4)) then
+  do i=1,n
+    do j=1, n-i
+        if(a(j)<a(j+1)) then
           tempo = a(j)
           a(j)= a(j+1)
           a(j+1) = tempo
