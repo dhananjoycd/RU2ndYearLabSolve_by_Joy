@@ -762,14 +762,14 @@ end program num_17
 program num_18
   implicit none
   integer :: i, j, k, m, n
-  real, allocatable :: a(:,:), a_transpose(:,:), aa(:,:), a_transpose_a(:,:)
+  real, allocatable :: a(:,:), a_transpose(:,:), a_a_transpose(:,:), a_transpose_a(:,:)
 
   ! Input: Enter the order [m*n] of matrix A
   print*, "Enter the number of rows (m) and columns (n) of matrix A:"
   read *, m, n
 
   ! Allocate memory for matrices
-  allocate(a(m, n), a_transpose(n, m), aa(m, m), a_transpose_a(n, n))
+  allocate(a(m, n), a_transpose(n, m), a_a_transpose(m, m), a_transpose_a(n, n))
 
   ! Input: Enter the elements of matrix A in row-wise
   print*, "Enter the elements of matrix A in row-wise:"
@@ -789,9 +789,9 @@ program num_18
   ! Calculate AA' (matrix multiplication)
   do i = 1, m
     do j = 1, m
-      aa(i, j) = 0.0
+      a_a_transpose(i, j) = 0.0
       do k = 1, n
-        aa(i, j) = aa(i, j) + a(i, k) * a_transpose(k, j)
+        a_a_transpose(i, j) = a_a_transpose(i, j) + a(i, k) * a_transpose(k, j)
       end do
     end do
   end do
@@ -799,7 +799,7 @@ program num_18
   ! Output: Matrix AA'
   print*, "Matrix AA':"
   do i = 1, m
-    print*,(aa(i, j), j = 1, m)
+    print*,(a_a_transpose(i, j), j = 1, m)
   end do
 
   ! Calculate A'A (matrix multiplication)
