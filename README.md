@@ -1032,7 +1032,7 @@ end function
 ```fortran
 program num_23
   implicit none
-  integer :: n, fac, nCr, i, q(20)
+  integer :: n, fac, nCr, i
   integer, allocatable :: p(:)
 
   ! Input loop label
