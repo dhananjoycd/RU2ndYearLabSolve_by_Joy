@@ -597,7 +597,7 @@ program num_14
   ! Step 6: Print the resulting matrix C
   print *, "The sum of the matrices is:"
   do i = 1, m
-    print *, (c(i, j), j = 1, n)
+   print'(10(F8.2))', (c(i,j), j = 1, n)
   end do
 end program num_14
 ```
